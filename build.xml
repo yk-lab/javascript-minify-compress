@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Main-Class: net.ykLab.soft.Main
+
+Name: org/mozilla/universalchardet/prober/statemachine/
+Sealed: true
+
+Name: org/mozilla/universalchardet/prober/
+Sealed: true
+
+Name: org/mozilla/universalchardet/
+Sealed: true
+
+Name: org/mozilla/universalchardet/prober/sequence/
+Sealed: true
+
+Name: org/mozilla/universalchardet/prober/contextanalysis/
+Sealed: true
+
+Name: org/mozilla/universalchardet/prober/distributionanalysis/
+Sealed: true
+
